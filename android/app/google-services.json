@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165988871385",
+    "project_id": "tabebk-a8930",
+    "storage_bucket": "tabebk-a8930.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165988871385:android:7d2a4e06f8ad1e937ca2c8",
+        "android_client_info": {
+          "package_name": "com.example.tabebk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165988871385-jn7s54sr7tcv9c8qj4ru3ar31qitj96d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtBRIHyTZHmHZ0MKe20kP-NNkdPobPY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165988871385-jn7s54sr7tcv9c8qj4ru3ar31qitj96d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
