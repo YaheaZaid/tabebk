@@ -14,6 +14,11 @@ Its a Cross platform app Developed on Flutter
 - Google Api Location
 
 
+# Architecture
+
+This app uses MVVM (Model View View-Model) architecture.
+
+
 # ScreenShot
 
 
